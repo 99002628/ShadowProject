@@ -1,4 +1,5 @@
 # ShadowProject - Design of Robotic Arm
+
 Problem Statement
 To design a robotic arm with 3 axes capable of moving mass of 1 kg with speeds up to 1 m/s.
 About the project
